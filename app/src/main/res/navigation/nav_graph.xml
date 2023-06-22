@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/TargetMessagingFragment">
+
+    <fragment
+        android:id="@+id/TargetMessagingFragment"
+        android:name="com.example.SampleA3LMessagingApp.FirstFragment"
+        android:label="@string/first_fragment_label"
+        tools:layout="@layout/fragment_first">
+        <action
+            android:id="@+id/action_TargetMessagingFragment_to_TBMFragment"
+            app:destination="@id/TBMFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/TBMFragment"
+        android:name="com.example.SampleA3LMessagingApp.TBMFragment"
+        android:label="@string/second_fragment_label"
+        tools:layout="@layout/tbm_fragment">
+        <action
+            android:id="@+id/action_TBMFragment_to_TargetMessagingFragment"
+            app:destination="@id/TargetMessagingFragment" />
+        <action
+            android:id="@+id/action_TBMFragment_to_GBMFragment"
+            app:destination="@id/GBMFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/GBMFragment"
+        android:name="com.example.SampleA3LMessagingApp.GBMFragment"
+        android:label="@string/third_fragment_label"
+        tools:layout="@layout/gbm_fragment">
+        <action
+            android:id="@+id/action_GBMFragment_to_TBMFragment"
+            app:destination="@id/TBMFragment" />
+    </fragment>
+</navigation>

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "440883360916",
+    "project_id": "suraj-test-d5590",
+    "storage_bucket": "suraj-test-d5590.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440883360916:android:152e6bdb0aac3fba6b7081",
+        "android_client_info": {
+          "package_name": "com.example.SampleA3LMessagingApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440883360916-h4m98dmpp2t12lbi7okmio85a6ichopj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIrxgqzVKB4Gs3YVOOjfNYj5RA5jYef1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440883360916-h4m98dmpp2t12lbi7okmio85a6ichopj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440883360916:android:4ddd6076107b29916b7081",
+        "android_client_info": {
+          "package_name": "com.suraj.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440883360916-h4m98dmpp2t12lbi7okmio85a6ichopj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIrxgqzVKB4Gs3YVOOjfNYj5RA5jYef1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440883360916-h4m98dmpp2t12lbi7okmio85a6ichopj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
