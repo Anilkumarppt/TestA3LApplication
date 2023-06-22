@@ -1,2 +1,47 @@
 {
+  "project_info": {
+    "project_number": "814815311684",
+    "project_id": "a3lmessaging-90540",
+    "storage_bucket": "a3lmessaging-90540.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814815311684:android:b5f3772bc5c1ae22dcc911",
+        "android_client_info": {
+          "package_name": "com.example.SampleA3LMessagingApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814815311684-u9ck9op4idnqtp5nndbvl80c9l0so6lj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.SampleA3LMessagingApp",
+            "certificate_hash": "004172f112a3c0177ce2bb261398fdc653604e35"
+          }
+        },
+        {
+          "client_id": "814815311684-1vq4vrjc1pa3c7hu9h0m21n56e41bdtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6z6bssIO7LDP-j1vRw6kKoQXz5-f2vbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814815311684-1vq4vrjc1pa3c7hu9h0m21n56e41bdtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
