@@ -144,7 +144,7 @@ public class FCMPushSender {
     }
 
     private static String getFCMProjectKey(Context context){
-        return context.getResources().getString(R.string.google_api_key);
+        return "AIzaSyD6z6bssIO7LDP-j1vRw6kKoQXz5-f2vbY";
     }
 
     private static String sendMessage(

@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
                         // Get new FCM registration token
                         String token = task.getResult();
 
-                        Log.d(TAG, token);
+                        Log.d(TAG, "Token  "+token);
                     }
                 });
 

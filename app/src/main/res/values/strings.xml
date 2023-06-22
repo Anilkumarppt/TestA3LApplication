@@ -19,4 +19,5 @@
     <string name="welcome_message">Welcome to SampleA3LMessagingApp, a demo app built using A3LMessaging. \n\nClick on below button to send a test push notification.</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="debug_statement">Debug Statement Place holder</string>
+    <!--<string name="google_api_key">AIzaSyD6z6bssIO7LDP-j1vRw6kKoQXz5-f2vbY</string>-->
 </resources>
